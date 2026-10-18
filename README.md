@@ -80,8 +80,8 @@ footer{font:13px Arial,sans-serif;color:#52742c;margin:28px 0 4px}
       <button class="btn" onclick="showLetter()">Leer la cartita 💌</button>
     </div>
     <article class="letter hidden" id="letter">
-      <h2>Para mis amigos, con todo mi cariño 💌</h2>
-      <p>Hweno dia. 💚</p>
+      <h2>Para los mejor, con todo mi cariño 💌</h2>
+      <p>Weno dia. 💚</p>
       <p>Hice esta cartita porque quería recordarles algo que quizá no digo tan seguido: <strong>ustedes son muy importantes para mí</strong>, y me alegra muchísimo que formen parte de mi vida.</p>
       <p>Gracias por cada risa, cada conversación, cada tontería que termina convirtiéndose en un recuerdo y cada momento en el que, sin darse cuenta, hacen que un día normal sea mucho más lindo. A veces las cosas más pequeñas son las que más se quedan en el corazón.</p>
       <p>Quiero que sepan que los aprecio tal y como son. Cada uno tiene algo especial, una forma única de ser y de aportar algo bonito al grupo. No hace falta que todo sea perfecto ni que siempre estemos de acuerdo; para mí, también se trata de aprender, entendernos y seguir compartiendo.</p>
