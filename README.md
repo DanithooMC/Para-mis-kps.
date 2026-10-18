@@ -61,7 +61,7 @@ footer{font:13px Arial,sans-serif;color:#52742c;margin:28px 0 4px}
 </head>
 <body>
 <main>
-  <div class="tag">hecho con cariño · para mis amigos</div>
+  <div class="tag">hecho con cariño · para mis kps</div>
   <h1>Una cosita para<br><span>mis personas favoritas 💚</span></h1>
   <p class="intro">Hay cosas que a veces no digo en voz alta, así que preparé este pequeño rincón para ustedes. Tienen que abrir el regalo… 👀</p>
 
@@ -81,7 +81,7 @@ footer{font:13px Arial,sans-serif;color:#52742c;margin:28px 0 4px}
     </div>
     <article class="letter hidden" id="letter">
       <h2>Para mis amigos, con todo mi cariño 💌</h2>
-      <p>Holaaaa, personitas bonitas. 💚</p>
+      <p>Hweno dia. 💚</p>
       <p>Hice esta cartita porque quería recordarles algo que quizá no digo tan seguido: <strong>ustedes son muy importantes para mí</strong>, y me alegra muchísimo que formen parte de mi vida.</p>
       <p>Gracias por cada risa, cada conversación, cada tontería que termina convirtiéndose en un recuerdo y cada momento en el que, sin darse cuenta, hacen que un día normal sea mucho más lindo. A veces las cosas más pequeñas son las que más se quedan en el corazón.</p>
       <p>Quiero que sepan que los aprecio tal y como son. Cada uno tiene algo especial, una forma única de ser y de aportar algo bonito al grupo. No hace falta que todo sea perfecto ni que siempre estemos de acuerdo; para mí, también se trata de aprender, entendernos y seguir compartiendo.</p>
@@ -89,9 +89,9 @@ footer{font:13px Arial,sans-serif;color:#52742c;margin:28px 0 4px}
       <p>Ojalá nos queden muchísimas anécdotas por vivir, fotos feas que nos den risa después, conversaciones interminables y recuerdos que algún día miremos con una sonrisa. No sé cómo cambiarán las cosas con el tiempo, pero de verdad espero que la vida nos regale muchos momentos más juntos.</p>
       <p>Y si alguna vez se les olvida lo mucho que valen, acuérdense de que son personas únicas y merecen cariño, respeto y cosas bonitas. Me siento afortunado/a de conocerlos y poder llamarlos mis amigos. 🫶</p>
       <p><strong>Los quiero un montón. Gracias por existir, por ser ustedes y por formar parte de mi historia.</strong> Esta página es pequeñita, pero está hecha con muchísimo cariño para todos ustedes. 💚</p>
-      <div class="sign">Con mucho cariño,<br>su amigo/a que los quiere ♡</div>
+      <div class="sign">Con mucho cariño,<br> Danithoo ♡</div>
       <div class="divider">☘ ✧ 💚 ✧ ☘</div>
-      <p style="text-align:center;margin-bottom:0">Fin de la cartita… ¡pero no del cariño! ✨</p>
+      <p style="text-align:center;margin-bottom:0">Fin de la cartita… ¡pero no del cariño! (no me voy a suicidar gente)✨</p>
     </article>
     <div id="letterControls" class="hidden">
       <button class="btn alt" onclick="showLetter()">Volver a leer 💌</button>
@@ -99,11 +99,11 @@ footer{font:13px Arial,sans-serif;color:#52742c;margin:28px 0 4px}
     </div>
     <p class="music-note">♪ Puedes poner tu canción favorita de fondo mientras lees esta carta.</p>
   </section>
-  <footer>Hecho con cariño, risas y un poquito de verde lima ♡</footer>
+  <footer>Hecho con cariño, risas y un poquito de esfuerso ♡</footer>
 </main>
 <script>
 function openGift(){
-  const gift=document.getElementById('gift');
+  const gift=document.getElementById('gift'); 
   gift.classList.add('open');
   document.getElementById('giftNote').textContent='¡Sorpresaaaa! 💚';
   document.getElementById('openBtn').classList.add('hidden');
