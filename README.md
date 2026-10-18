@@ -99,7 +99,7 @@ footer{font:13px Arial,sans-serif;color:#52742c;margin:28px 0 4px}
     </div>
     <p class="music-note">♪ Puedes poner tu canción favorita de fondo mientras lees esta carta.</p>
   </section>
-  <footer>Hecho con cariño, risas y un poquito de esfuerso ♡</footer>
+  <footer>Hecho con cariño y un poquito de esfuerso ♡</footer>
 </main>
 <script>
 function openGift(){
